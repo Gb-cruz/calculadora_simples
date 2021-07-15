@@ -25,7 +25,7 @@
     font-size: 25px;
     cursor: pointer;
     background-color: rgba(99, 113, 121, 0.342);
-    border-bottom: white;
+    border: none;
     color:rgb(255, 253, 253)
 }
 .botao:hover{
